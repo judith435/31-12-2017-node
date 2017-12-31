@@ -1,0 +1,24 @@
+{
+  "name": "31-12-2017-node",
+  "version": "1.0.0",
+  "description": "node js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judith435/31-12-2017-node.git"
+  },
+  "author": "judith ilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judith435/31-12-2017-node/issues"
+  },
+  "homepage": "https://github.com/judith435/31-12-2017-node#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "save": "^2.3.2"
+  }
+}
